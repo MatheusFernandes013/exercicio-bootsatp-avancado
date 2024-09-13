@@ -8,3 +8,7 @@ nav {
 nav strong {
     color: #fff;
 }
+
+.card {
+    margin-top: 32px;
+}
