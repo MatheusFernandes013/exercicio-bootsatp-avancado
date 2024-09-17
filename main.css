@@ -9,6 +9,18 @@ nav strong {
     color: #fff;
 }
 
-.card {
+h2 {
+    color: #fff;
     margin-top: 32px;
+}
+
+.card {
+    margin: 16px 0;
+}
+
+footer {
+    background-color: #30303044;
+    color: #fff;
+    text-align: center;
+    padding: 16px;
 }
